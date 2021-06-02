@@ -1,6 +1,6 @@
 #include <stdio.h>
-//test
+//test1
 int main(){
-  printf("<h1>Hello, Hongik! test</h1>");
+  printf("<h1>Hello, Hongik! test1</h1>");
   return 0;
 }
